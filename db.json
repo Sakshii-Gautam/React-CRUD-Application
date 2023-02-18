@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Rosa",
+      "address": "b99",
+      "email": "rosa@gmail.com",
+      "contact": "387428374",
+      "id": 1
+    },
+    {
+      "name": "Amy santiago",
+      "address": "b99",
+      "email": "amy@gmail.com",
+      "contact": "8349823",
+      "id": 2
+    },
+    {
+      "name": "Captian Holt",
+      "address": "99th precinct",
+      "email": "holt@gmail.com",
+      "contact": "2837498",
+      "id": 3
+    },
+    {
+      "name": "Terry ",
+      "address": "brooklyn",
+      "email": "terry@gmail.com",
+      "contact": "3094823948",
+      "id": 4
+    }
+  ]
+}
